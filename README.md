@@ -1,6 +1,6 @@
 # get
 
-`get` was created because I couldn't install `go` packages through the command `go get github.com/<AUTHOR>/<PACKAGE>`. The reason was because `git clone` doesn't work for me during to network/security constraints.
+`get` was created because I couldn't install `go` packages through the command `go get github.com/<AUTHOR>/<PACKAGE>`. The reason was because `git clone` doesn't work for me due to network/security constraints.
 
 ## Usage
 
