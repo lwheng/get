@@ -63,7 +63,7 @@ func main() {
 				os.RemoveAll(mPackage + "-master")
 				os.Remove("master.zip")
 
-				fmt.Println("Now you need to run the following command to install the package:\n")
+				fmt.Println("Now you need to run the following command to install the package:")
 				fmt.Println("cd " + packageSrcPath + "/" + mPackage + " && go install && cd -")
 			}
 		}
